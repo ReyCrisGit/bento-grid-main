@@ -5,7 +5,7 @@ Esta es una solución al desafío [Bento grid challenge on Frontend Mentor](http
 ## Índice
 
 - [Descripcion](#descripcion)
-  - [El desafio](#el-desafio)
+  - [El desafio](#el-desafío)
   - [Captura de pantalla](#captura-de-pantalla)
   - [Enlaces](#enlaces)
 - [Mi proceso](#mi-proceso)
