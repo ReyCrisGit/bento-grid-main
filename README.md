@@ -4,15 +4,15 @@ Esta es una solución al desafío [Bento grid challenge on Frontend Mentor](http
 
 ## Índice
 
-- [Descripcion](#descripcion)
-  - [El desafio](#el-desafio)
+- [Descripción](#descripcion)
+  - [El desafío](#el-desafio)
   - [Captura de pantalla](#captura-de-pantalla)
   - [Enlaces](#enlaces)
 - [Mi proceso](#mi-proceso)
   - [Tecnologias utilizadas](#tecnologias-utilizandas)
-  - [Lo que aprendi](#lo-que-aprendi)
+  - [Lo que aprendí](#lo-que-aprendi)
   - [Desarrollo continuo](#desarrollo-continuo)
-  - [Recursos utiles](#recursos-utiles)
+  - [Recursos útiles](#recursos-utiles)
 - [Autor](#autor)
 - [Reconocimientos](#reconocimientos)
 
@@ -24,14 +24,14 @@ Los usuarios deberían poder:
 
 - Ver el diseño óptimo para el sitio según el tamaño de la pantalla de su dispositivo
 
-### Screenshot
+### Captura de pantalla
 
 ![](./screenshot.jpg)
 
 ### Enlaces
 
-- URL de la solución: [Add solution URL here](https://your-solution-url.com)
-- URL del sitio en vivo: [Add live site URL here](https://your-live-site-url.com)
+- URL de la solución: [GitHub](https://github.com/ReyCrisGit/bento-grid-main)
+- URL del sitio en vivo: [GitHubPages](https://reycrisgit.github.io/bento-grid-main/)
 
 ## Mi proceso
 
