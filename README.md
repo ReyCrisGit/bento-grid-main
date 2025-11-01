@@ -10,9 +10,9 @@ Esta es una solución al desafío [Bento grid challenge on Frontend Mentor](http
   - [Enlaces](#enlaces)
 - [Mi proceso](#mi-proceso)
   - [Tecnologias utilizadas](#tecnologias-utilizandas)
-  - [Lo que aprendi](#lo-que-aprendi)
+  - [Lo que aprendí](#lo-que-aprendi)
   - [Desarrollo continuo](#desarrollo-continuo)
-  - [Recursos utiles](#recursos-utiles)
+  - [Recursos útiles](#recursos-utiles)
 - [Autor](#autor)
 - [Reconocimientos](#reconocimientos)
 
@@ -24,7 +24,7 @@ Los usuarios deberían poder:
 
 - Ver el diseño óptimo para el sitio según el tamaño de la pantalla de su dispositivo
 
-### Screenshot
+### Captura de pantalla
 
 ![](./screenshot.jpg)
 
